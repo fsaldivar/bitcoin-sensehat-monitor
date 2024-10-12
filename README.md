@@ -36,7 +36,7 @@ Para ejecutar este proyecto, necesitarás lo siguiente:
 3. **Clona o descarga el proyecto:**
    - Clona este repositorio o descarga el script directamente:
      ```bash
-     git clone https://github.com/tuusuario/bitcoin-sensehat-monitor.git
+     git clone https://github.com/fsaldivar/bitcoin-sensehat-monitor.git
      ```
 
 4. **Ejecuta el script:**
